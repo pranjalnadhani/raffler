@@ -1,9 +1,9 @@
-= RailsCasts Example Application
+= Random selection sample application
 
 Run these commands to try it out.
 
-  bundle
+  bundle install
   rake db:setup
   rails s
 
-Requires Ruby 1.9.2 or later to run.
+Requires Ruby 1.9.3 or later to run.
